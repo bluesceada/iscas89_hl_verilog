@@ -5,6 +5,7 @@ I couldn't find this version of the ISCAS89 circuits hosted anywhere anymore. Yo
 
 I just upload this set of benchmarks "AS IS", because the original host is not available anymore. Please let me know if you think this is a violation of anyones rights and I can take this repository down again. I give no warranties whatsoever. Please consider citing the original paper when using them:
 
+```
 @inproceedings{Brglez1989,
 	title={Combinational profiles of sequential benchmark circuits},
 	author={Brglez, Franc and Bryan, David and Kozminski, Krzysztof},
@@ -13,5 +14,6 @@ I just upload this set of benchmarks "AS IS", because the original host is not a
 	year={1989},
 	organization={IEEE}
 }
+```
 
 Please let me know if you think this is a violation of anyones rights and I can take this repository down again.
